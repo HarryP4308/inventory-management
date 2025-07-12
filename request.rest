@@ -1,0 +1,1 @@
+DELETE http://localhost:3000/products/686c4d4cfe55a28207a169be
